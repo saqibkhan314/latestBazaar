@@ -15,7 +15,7 @@
 ## App Screenshots
 
 - **Welcome Screen**
-![Welcome](assets/welcomescreen.png)
+  ![Welcome](assets/welcomescreen.png)
 
 - **Login Screen**  
   ![Login](assets/loginscreen.png)
