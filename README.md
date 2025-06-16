@@ -15,25 +15,25 @@
 ## App Screenshots
 
 - **Welcome Screen**
-![Welcome](../latestBazaar/assets/welcomescreen.png)
+![Welcome](assets/welcomescreen.png)
 
 - **Login Screen**  
-  ![Login](../latestBazaar/assets/loginscreen.png)
+  ![Login](assets/loginscreen.png)
 
 - **Signup Screen**  
-  ![Signup](../latestBazaar/assets/signupscreen.png)
+  ![Signup](assets/signupscreen.png)
 
 - **Home Page**  
-  ![Home](../latestBazaar/assets/homescreen.png)
+  ![Home](assets/homescreen.png)
 
 - **Cart Page**  
-  ![Cart Page](../latestBazaar/assets/cartscreen.png)
+  ![Cart Page](assets/cartscreen.png)
 
 - **Profile Page**  
-  ![Profile](../latestBazaar/assets/profilescreen.png)
+  ![Profile](assets/profilescreen.png)
 
 - **Product Detail**  
-  ![Product Detail](../latestBazaar/assets/productdetailscreen.png)
+  ![Product Detail](assets/productdetailscreen.png)
 
 
 
